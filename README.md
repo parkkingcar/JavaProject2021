@@ -1,2 +1,2 @@
 ﻿# JavaProject2021
-2048 game in Android Studio
+2048 game in Android
